@@ -1,0 +1,22 @@
+PARTICIPANT #,# of TVs,Preferred Method,Hours of TV,Time of Day,Activities while Watching TV,Genres,Situations to watch TV,How has TV affected your mood?,How much has TV troubled you?,Bedtime,HRS of Sleep,How long does it take to fall asleep,# of Wakeup Times,# of Times per Week,Sleep Quality?,How has sleep affected your mood?,How has sleep troubled you?
+1,3-5,Laptop/Desktop,1-2,Night,Relax,Horror; Indie; Romance Comedy,Bed,Little,Not at all,12-2AM,7-9,<15,0,0,Great,Little,Little
+2,1-2,Laptop/Desktop; Mobile Device/Cellphone,0,Afternoon,Other,Comedy; Horror; Crime,Other,Much,Somewhat,12-2AM,3-6,31-45,1-2,6-7,Very Poor,Very Much,Very Much
+3,1-2,TV,3-5,Afternoon,Eat; Sit; Workout; Relax,Comedy; Horror,Study Break; Meal,Little,Not at all,12-2AM,3-6,15-30,1-2,3-5,Good,Somewhat,Little
+4,1-2,TV,3-5,Afternoon,Relax,Romance,Bed,Much,Somewhat,10-11PM,3-6,15-30,0,1-2,Average,Very Much,Much
+5,3-5,Mobile Device/Cellphone,1-2,Night,Relax,Comedy; Horror; Drama,Meal; Bed,Little,Not at all,12-2AM,3-6,15-30,0,1-2,Average,Somewhat,Little
+6,1-2,TV,3-5,Afternoon; Night,Eat; Sit; Relax,Comedy; Mystery,Study Break; Meal,Little,Not at all,12-2AM,3-6,15-30,1-2,1-2,Good,Much,Little
+7,1-2,Mobile Device/Cellphone,3-5,Afternoon,Relax,Action; Horror; Comedy,Study Break; Meal; Bed,Little,Not at all,10-11PM,3-6,15-30,0,1-2,Good,Somewhat,Little
+8,3-5,TV,3-5,Afternoon,Eat; Sleep; Workout,Comedy; SciFi; Romance; Drama,Study Break; Meal,Much,Little,12-2AM,7-9,15-30,1-2,1-2,Good,Little,Little
+9,1-2,TV,1-2,Night,Eat; Sleep ,Historical Fiction,Vacation; Meal; Bed,Somewhat,Not at all,12-2AM,7-9,15-30,0,0,Good,Little,Not at all
+10,1-2,Mobile Device/Cellphone,3-5,Afternoon,Sit; Other,Reality TV; Crime; Comedy,Traveling; Bed; Other,Not at all,Not at all,10-11PM,7-9,15-30,2-3,3-5,Poor,Somewhat,Little
+11,1-2,Mobile Device/Cellphone,1-2,Afternoon,Relax,Comedy; Drama; Documentary,Traveling; Study Break; Bed,Somewhat,Somewhat,12-2AM,7-9,15-30,1-2,1-2,Average,Much,Much
+12,1-2,TV,3-5,Night,Eat; Relax,Comedy; Horror,Meal,Much,Little,12-2AM,7-9,15-30,0,0,Great,Much,Little
+13,1-2,TV,1-2,Night,Eat,Crime; Sitcoms; Documentary,Study Break,Somewhat,Not at all,12-2AM,7-9,15-30,0,1-2,Good,Somewhat,Little
+14,3-5,Mobile Device/Cellphone,1-2,Night,Relax,Anime; Drama; Sports; All,Meal,Not at all,Not at all,10-11PM,3-6,15-30,3-5,6-7,Poor,Somewhat,Little
+15,3-5,TV,1-2,Afternoon,Relax,Romance,Vacation ,Somewhat,Little,12-2AM,3-6,<15,0,0,Great,Very Much,Not at all
+16,3-5,TV,3-5,Night,Sit ,Comedy; Romance,Bed,Not at all,Not at all,10-11PM,3-6,15-30,1-2,3-5,Poor,Very Much,Very Much
+17,0,Laptop/Desktop,1-2,Afternoon,Relax,Comedy; Drama ,Vacation; Traveling; Bed,Somewhat,Not at all,10-11PM,7-9,15-30,0,1-2,Average,Somewhat,Little
+18,3-5,Mobile Device/Cellphone,3-5,Night,Eat; Relax,Action; Adventure; Anime,Study Break; Meal; Bed,Not at all,Not at all,12-2AM,3-6,31-45,1-2,1-2,Average,Much,Somewhat
+19,3-5,TV,1-2,Night,Sit,Drama; Thriller; Crime; Fiction,Study Break; Meal,Little,Little,12-2AM,3-6,31-45,1-2,1-2,Average,Much,Much
+20,1-2,TV,1-2,Night,Eat,Comedy,Study Break,Somewhat,Not at all,12-2AM,7-9,15-30,0,0,Good,Little,Not at all
+21,1-2,TV,3-5,Night,Relax,Comedy; Horror,Study Break,Somewhat,Not at all,12-2AM,7-9,31-45,3-5,3-5,Poor,Very Much,Much
